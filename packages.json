@@ -56,6 +56,6 @@
     {"package-id": "com.viki.android", "name": "Viki", "version": "3.3.3", "platform": "android", "source": "repo1", "checksum": "e0b6f480ad9e64a418a177be0b833030"},
     {"package-id": "air.com.vudu.air.DownloaderTablet", "name": "Vudu", "version": "1.4.231", "platform": "android", "source": "repo1", "checksum": "f3b3a385b3532c2235b42eb63ab943e8"},
     {"package-id": "com.android.DroidLiveLite", "name": "XiiaLive", "version": "3.2.0.8", "platform": "android", "source": "repo1", "checksum": "2d901739c616f59806301f8fa1d20f2f"},
-    {"package-id": "com.google.android.apps.youtube.kids", "name": "Youtube Kids", "version": "1.5.5", "platform": "android", "source": "repo1", "checksum": "9c38d3bb15e4b24ac7c3acd201a060c0"},
+    {"package-id": "com.google.android.apps.youtube.kids", "name": "Youtube Kids", "version": "1.5.5", "platform": "android", "source": "repo1", "checksum": "9c38d3bb15e4b24ac7c3acd201a060c0"}
     ]
 }
