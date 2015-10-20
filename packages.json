@@ -9,7 +9,7 @@
     {"package-id": "bbc.iplayer.android", "name": "BBC iPlayer", "version": "2.0.2.8", "platform": "android", "source": "repo1", "checksum": "1c7b48e6fff6644553c90cf79b5e1150"},
     {"package-id": "com.trendico.classiccartoons", "name": "Cartoons", "version": "1.6", "platform": "android", "source": "repo1", "checksum": "5344c367ccd95cb479644551728a0dce"},
     {"package-id": "tv.cinetrailer.mobile.b", "name": "CineTrailer", "version": "2.11.0", "platform": "android", "source": "repo1", "checksum": "0be8b45fa43cc676e4c982cf7114228f"},
-    {"package-id": "com.cloud.tv", "name": "CloudTV", "version": "default", "platform": "android", "source": "repo1", "checksum": ""},
+    {"package-id": "com.cloud.tv", "name": "CloudTV", "version": "CTV-B-20141003", "platform": "android", "source": "repo1", "checksum": "05eb0ab7f0ca68fb98fc403a538f8d76"},
     {"package-id": "com.gotv.crackle.handset", "name": "Crackle", "version": "4.0.3", "platform": "android", "source": "repo1", "checksum": "5ef23c45c0b192b82a5eb9b9f08daf86"},
     {"package-id": "com.crunchyroll.googletv", "name": "Crunchyroll", "version": "0.7.8Beta", "platform": "android", "source": "repo1", "checksum": "cabc3c49bcb58dd1bb32f701c67e243d"},
     {"package-id": "com.geni.DashDroid", "name": "DashDroid", "version": "2.0", "platform": "android", "source": "repo1", "checksum": "4582b0309424eafed3634e12daaf0c73"},
@@ -41,7 +41,7 @@
     {"package-id": "com.pushbullet.android", "name": "Pushbullet", "version": "14.9.2", "platform": "android", "source": "repo1", "checksum": "6e90c4de18aacdc21d9c3fa557b12c3a"},
     {"package-id": "com.rdio.android.ui", "name": "Rdio", "version": "3.0.1.65", "platform": "android", "source": "repo1", "checksum": "eac41867db77ecb9c5e5514421f27d57"},
     {"package-id": "com.nousguide.android.rbtv", "name": "Redbull TV", "version": "3.0.0.0", "platform": "android", "source": "repo1", "checksum": "d23cadfc35c3525c07deeeab9be5b757"},
-    {"package-id": "com.tdo.showbox", "name": "Showbox", "version": "3.6", "platform": "android", "source": "repo1", "checksum": "91013b81bfa8852107baa027ec29e2e2"},
+    {"package-id": "com.tdo.showbox", "name": "Showbox", "version": "4.27", "platform": "android", "source": "repo1", "checksum": "8091293404cfe7026693fa0a5a69cc3d"},
     {"package-id": "com.soundcloud.android", "name": "Soundcloud", "version": "14.10.20-28", "platform": "android", "source": "repo1", "checksum": "5829d043fc2e2796f49ec45ab40f02dc"},
     {"package-id": "com.spotify.music", "name": "Spotify", "version": "1.6.0.952", "platform": "android", "source": "repo1", "checksum": "253b555def20a904012943be25d17acb"},
     {"package-id": "com.mutado.android.stereomood", "name": "Stereomood", "version": "1.3", "platform": "android", "source": "repo1", "checksum": "159a0b9fcbaddacbf08bce00160363a9"},
@@ -57,6 +57,15 @@
     {"package-id": "air.com.vudu.air.DownloaderTablet", "name": "Vudu", "version": "1.4.231", "platform": "android", "source": "repo1", "checksum": "f3b3a385b3532c2235b42eb63ab943e8"},
     {"package-id": "com.android.DroidLiveLite", "name": "XiiaLive", "version": "3.2.0.8", "platform": "android", "source": "repo1", "checksum": "2d901739c616f59806301f8fa1d20f2f"},
     {"package-id": "com.google.android.apps.youtube.kids", "name": "Youtube Kids", "version": "1.5.5", "platform": "android", "source": "repo1", "checksum": "9c38d3bb15e4b24ac7c3acd201a060c0"},
-    {"package-id": "plugin.video.bbts", "name": "BBTS", "version": "0.1.2", "platform": "kodi", "source": "repo1", "checksum": "b8e89708ac6dc4289c22f28007eee31f"}
+    {"package-id": "plugin.video.bbts", "name": "BBTS", "version": "0.1.3", "platform": "kodi", "source": "repo1", "checksum": "b8e89708ac6dc4289c22f28007eee31f"},
+    {"package-id": "com.dailymotion.dailymotion", "name": "Dailymotion", "version": "4760", "platform": "android", "source": "repo1", "checksum": "91f270bd8428abae21eda567a0a6f278"},
+    {"package-id": "com.waxrain.airplayer", "name": "AirPin Lite", "version": "1.8.3", "platform": "android", "source": "repo1", "checksum": "3a9e69c11f81f6da55528b15146cc6c7"},
+    {"package-id": "com.sand.airdroid", "name": "AirDroid", "version": "3.1.5.2", "platform": "android", "source": "repo1", "checksum": "4bfcd143106594d7fae9d32f1a8743b1"},
+    {"package-id": "com.mxtech.videoplayer.ad", "name": "MX Player", "version": "1.7.31", "platform": "android", "source": "repo1", "checksum": "595507f9aa5ecf96b885dbaa30ae49bf"},
+    {"package-id": "com.google.android.music", "name": "Google Music", "version": "5.7.1717Q.1530520", "platform": "android", "source": "repo1", "checksum": "d3e39a9be8173a2aee569a93ed2a7bcc"},
+    {"package-id": "com.google.android.calendar", "name": "Google Calendar", "version": "201404014", "platform": "android", "source": "repo1", "checksum": "8f3e862f5d59770c31d4217f7340fb84"},
+    {"package-id": "com.google.android.apps.maps", "name": "Google Maps", "version": "9.0.0", "platform": "android", "source": "repo1", "checksum": "0e41ba303132136100b09756bde62934"},
+    {"package-id": "com.google.android.apps.docs", "name": "Google Drive", "version": "2.0.222.52", "platform": "android", "source": "repo1", "checksum": "2c649d11086ab9e014e2169ba40f45d3"},
+    {"package-id": "org.sopcast.android", "name": "Sopcast", "version": "1.2.8", "platform": "android", "source": "repo1", "checksum": "25e8cf19c3cdf9cba58c1856c7a85cc1"}
     ]
 }
