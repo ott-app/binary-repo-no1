@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updated": "2015-09-02",
+  "updated": "2015-10-20",
   "repo1": "https://github.com/ott-app/binary-repo-no1/raw/master/packages/",
   "packages": [
     {"package-id": "com.kmc.onechannel.tvshows", "name": "1Channel", "version": "2.4.7", "platform": "android", "source": "repo1", "checksum": "355ce1ac557f4184c90bc23a3c1e2295"},
